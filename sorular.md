@@ -9,7 +9,7 @@ Soruları cevaplarken takıldığın yerlerde [GitHub docs](https://docs.github.
 Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama becerileriniz size yardımcı olacak. Google'ı iyi kullanabilmek de aslında büyük bir dikkat ve çalışma gerektiriyor. Zamanla bu konuda da daha iyileştiğini göreceksin :)
 
 ## Sorular
-
+.
 1. Git nedir?
 
 2. Git ile GitHub arasında ne fark var?
